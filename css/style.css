@@ -1,0 +1,17 @@
+.name{
+    font-family: Georgia;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+}
+.below{
+    font-family: Georgia;
+    font-size: 20px;
+    text-align: left;
+    width:40%
+}
+.me{
+    text-align: left;
+    width:50%
+    
+}
